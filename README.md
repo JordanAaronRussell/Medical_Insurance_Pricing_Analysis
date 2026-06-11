@@ -4,14 +4,11 @@ Exploratory Data Analysis and LM and Gamma GLM modeling of medical insurance pri
 ## Project Overview
 
 This project investigates the factors that influence medical insurance charges using exploratory data analysis and statistical modelling in R.
-
-The goal was to identify which customer characteristics contribute most strongly to insurance pricing and to build an appropriate predictive model for insurance costs.
+The goal was to identify which customer characteristics contribute most strongly to insurance pricing and to build an appropriate predictive model for insurance charges.
 
 ## Dataset
 
-Medical Cost Personal Dataset
-
-Variables include:
+Variables for the medical insurance cost include:
 
 - Age
 - Sex
@@ -54,4 +51,5 @@ Future models could incorporate:
 - Policy type
 - Income
 
-to improve predictive performance.
+These variables could help predictive performance.
+Machine learning techniques could be used to see how well the model generalises to unseen data.
