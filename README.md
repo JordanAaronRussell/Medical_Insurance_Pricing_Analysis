@@ -52,4 +52,4 @@ Future models could incorporate:
 - Income
 
 These variables could help predictive performance.
-Machine learning techniques could be used to see how well the model generalises to unseen data.
+Machine learning techniques such as Random Forests, Gradient Boosting, or XGBoost could also be investigated and compared against the statistical models used in this project. This would allow evaluation of predictive performance on unseen data and provide insight into how well the model generalises to new customers.
